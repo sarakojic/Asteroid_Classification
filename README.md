@@ -1,6 +1,6 @@
 # Final High School Project - Classification of Asteroids by Their Hazardousness Using Machine Learning
 
-https://colab.research.google.com/drive/1GVJJRD8co00HTvZR4MGgCuvXk4GJVPwP?usp=sharing
+https://colab.research.google.com/drive/1p4TOzLkls0MCZLxJzd4GMHo37yKtgZ_z?usp=sharing
 ### Written in May 2022, translated in November 2022
 Original (in Serbian): https://docs.google.com/document/d/1wDHWRDH_Umnl520aYOkryrJvd-AfeDaV/edit
 # **Introduction**
